@@ -32,11 +32,27 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-Battery.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-Battery.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-PMCR.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
 				<string>SSDT-PMCR.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-PLUG-_PR.PR00.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-PLUG-_PR.PR00.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -93,14 +109,6 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-NTFY.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-PLUG.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-PLUG.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -1372,7 +1380,7 @@
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
-				<string>17.0.0</string>
+				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>

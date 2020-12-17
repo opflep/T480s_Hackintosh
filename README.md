@@ -5,6 +5,7 @@
 - Fixed Bluetooth/AirDrop greyed out by patching USB Port:
 	- Mapping in SSDT-EC.aml.
 	- USBMap.kext is disabled
+- Fixed battery icon with SSDT-Battery.aml
 - Bluetooth/Wifi supported on DW1560 with Brcm 2.5.5 kext pack
 
 ## Catalina 10.15.6 / Clover r5122 / DW1560
