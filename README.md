@@ -1,5 +1,11 @@
 # Hackintosh on ThinkPadT480s | Clover and OpenCore
 
+
+## Big Sur 11.1 / OpenCore 0.6.4 / DW1560
+
+- Updated newest kexts, so far no issues
+- Config AirportBrcmFixup.kext with DW1560
+
 ## Catalina 10.15.6 / OpenCore 0.6.4 / DW1560
 
 - Fixed Bluetooth/AirDrop greyed out by patching USB Port:
