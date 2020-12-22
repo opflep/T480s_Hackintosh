@@ -2007,8 +2007,6 @@
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
-
-
 				<string>19.99.99</string>
 				<key>MinKernel</key>
 				<string></string>
@@ -2262,7 +2260,7 @@
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
-			<false/>
+			<true/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PollAppleHotKeys</key>
@@ -2277,7 +2275,7 @@
 		<key>Debug</key>
 		<dict>
 			<key>AppleDebug</key>
-			<true/>
+			<false/>
 			<key>ApplePanic</key>
 			<false/>
 			<key>DisableWatchDog</key>
@@ -2378,7 +2376,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1</string>
+				<string>keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
