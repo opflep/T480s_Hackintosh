@@ -1,6 +1,9 @@
 # Hackintosh on ThinkPadT480s | Clover and OpenCore
 
 
+## Contact me
+[![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/opf_lep)
+
 ## Big Sur 11.1 / OpenCore 0.6.4 / DW1560
 
 - Updated newest kexts, so far no issues
