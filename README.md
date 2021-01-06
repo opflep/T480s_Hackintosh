@@ -8,6 +8,8 @@
 
 - Updated newest kexts, so far no issues
 - Config AirportBrcmFixup.kext with DW1560
+- USBPorts.kext alternate USBInjectAll.kext: Disable Intergrated IR Camera
+- Disable Touchscreen for battery optimization
 
 ## Catalina 10.15.6 / OpenCore 0.6.4 / DW1560
 
