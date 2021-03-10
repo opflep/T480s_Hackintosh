@@ -2308,7 +2308,7 @@
 			<key>ConsoleAttributes</key>
 			<integer>0</integer>
 			<key>HibernateMode</key>
-			<string>NVRAM</string>
+			<string>None</string>
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>PickerAttributes</key>
