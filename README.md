@@ -4,7 +4,7 @@
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/opf_lep)
 
-## Big Sur 11.1 / OpenCore 0.6.4 / DW1560
+## Big Sur 11.1 / OpenCore 0.6.9 / DW1560
 
 - Updated newest kexts, so far no issues
 - Config AirportBrcmFixup.kext with DW1560
