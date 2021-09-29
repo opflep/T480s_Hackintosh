@@ -1,4 +1,4 @@
-# Hackintosh on ThinkPadT480s | Clover and OpenCore
+# Hackintosh on ThinkPad T480s | Clover and OpenCore
 
 
 ## Contact me
